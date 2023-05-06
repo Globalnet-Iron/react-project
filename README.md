@@ -1,1 +1,1 @@
-﻿# Gestor de Incidencias creado en React y formacion recibida en BootCamp Ironhacer PT Noviembre 2022
+﻿# Gestor de Incidencias creado en React y formacion recibida BootCamp Ironhacer PT Noviembre 2022
